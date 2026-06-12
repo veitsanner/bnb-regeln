@@ -8,7 +8,7 @@
 
 Dieses Regelwerk für *Gloomhaven: Knöpfe & Krabbler* soll einfach zugänglich, durchsuchbar und ausdruckbar sein. Es wird mit Korrekturen aktualisiert.
 
-Zuletzt aktualisiert: 10.10.2024
+Zuletzt aktualisiert: 10.06.2026
 
 Für mehr Informationen besuche einfach: [feuerland-spiele.de](https://www.feuerland-spiele.de/)
 
@@ -275,7 +275,7 @@ Jede Szenariophase besteht aus drei verschiedenen Schritten:
   <ol type="A">
     <li><strong>Startfeld:</strong> Am Anfang des Szenarios stellst du deine Figur auf dieses Feld.</li>
     <li><strong>Gelände:</strong> Auf diesen Feldern gelten besondere Raumeigenschaften (siehe <a href="#page_9">S. 9</a>).</li>
-    <li><strong>Monsterfelder:</strong> Auf diesen Feldern ist ein Monster abgebildet. Platziere den jeweilgen Monsterwürfel auf dem Feld mit der entsprechenden Farbe.</li>
+    <li><strong>Monsterfelder:</strong> Auf diesen Feldern ist ein Monster abgebildet. Platziere den jeweiligen Monsterwürfel auf dem Feld mit der entsprechenden Farbe.</li>
     <li><strong>Besondere Felder:</strong> Diese Felder sind mit einem Buchstaben markiert und werden in den Sonderregeln des Szenarios erläutert.</li>
   </ol>
 </blockquote>
@@ -324,7 +324,7 @@ Jedes Szenario besteht aus verschiedenen Geländetypen. Dieser Typ wird durch di
 
 <div class="float-container">
 	<span class="floating-image"><img src="assets/icons/terrain_objective.png" height="48"/></span>
-	<p>Zielobjekte sind mit den Zielen einiger Szenarien verbunden und müssen in der Regel angegriffen oder beschützt werden. Zielobjekte können angegriffen werden, sind aber immun gegen alle Zustände und erzwungene Bewegungen. Wenn die Sonderregeln für das Szenario nichts anderes vorgeben, behandle Zielobjekte für die Zwecke der Fokussierung so, als hätten sie eine Initiative von 99. Sie sind jedoch nie am Zug. Zielobjekte gelten als Figur. Die Felder, die sie belegen, sind gelten als besetzt. Zielobjekte sind keine Hindernisse. Die Sonderregel des jeweiligen Szenarios beschreibt, wie das Zielobjekt mit dem Ziel des Szenarios zusammenhängt.</p>
+	<p>Zielobjekte sind mit den Zielen einiger Szenarien verbunden und müssen in der Regel angegriffen oder beschützt werden. Zielobjekte können angegriffen werden, sind aber immun gegen alle Zustände und erzwungene Bewegungen. Wenn die Sonderregeln für das Szenario nichts anderes vorgeben, behandle Zielobjekte für die Zwecke der Fokussierung so, als hätten sie eine Initiative von 99. Sie sind jedoch nie am Zug. Zielobjekte gelten als Figur. Die Felder, die sie belegen, gelten als besetzt. Zielobjekte sind keine Hindernisse. Die Sonderregel des jeweiligen Szenarios beschreibt, wie das Zielobjekt mit dem Ziel des Szenarios zusammenhängt.</p>
 </div>
 
 ---
@@ -346,13 +346,13 @@ Diese Schritte werden wiederholt, bis das Szenarioziel erreicht ist.
 
 ## Rundenbeginn mit Szenarioeffekten
 
-Wende zu Beginn der Runde alle Effekte aus den Szenarioregeln an, wie zum Beispiel das Einsteigen von Monstern. Du kannst diese Effekte in beliebiger Reihenfolge anwenden, das Einsteigen sollte jedoch gleichzeitig passieren.  (siehe [S. 32](#page_32)).
+Wende zu Beginn der Runde alle Effekte aus den Szenarioregeln an, wie zum Beispiel das Einsteigen von Monstern. Du kannst diese Effekte in beliebiger Reihenfolge anwenden, das Einsteigen sollte jedoch gleichzeitig passieren (siehe [S. 32](#page_32)).
 
 ## Kartenauswahl
 
-Nachdem du alle Effekte angewendet hast, wählst du 2 Fertigkeitskarten aus deiner Hand aus, die du während der Runde ausspielst. Eine dieser beiden Karten gilt als Initiativkarte. Der Initiativewert in der Mitte der Karte bestimmt deine Position in der Initiativreihenfolge.  (siehe [S. 11](#page_11)).
+Nachdem du alle Effekte angewendet hast, wählst du 2 Fertigkeitskarten aus deiner Hand aus, die du während der Runde ausspielst. Eine dieser beiden Karten gilt als Initiativkarte. Der Initiativewert in der Mitte der Karte bestimmt deine Position in der Initiativreihenfolge (siehe [S. 11](#page_11)).
 
-Alternativ kannst du eine lange Rast ansagen, wenn du mindestens 2 Karten auf der Hand und/oder im Ablagestapel hast. (siehe [S. 27](#page_27)). Machst du eine lange Rast, brauchst du dafür deine ganze Runde, hast dabei Initiative 99 und wählst und spielst keine Karten.
+Alternativ kannst du eine lange Rast ansagen, wenn du mindestens 2 Karten auf der Hand und/oder im Ablagestapel hast (siehe [S. 27](#page_27)). Machst du eine lange Rast, brauchst du dafür deine ganze Runde, hast dabei Initiative 99, wählst und spielst keine Karten.
 
 ---
 
@@ -368,12 +368,12 @@ Dann bestimmst du die Initiativreihenfolge, indem du die Initiativewerte auf dei
 
 ## Gleichstand auflösen
 
-Wenn ein Gleichstand zwischen deiner Intitative und der eines Monsters besteht, bist du zuerst am Zug.
+Wenn ein Gleichstand zwischen deiner Initiative und der eines Monsters besteht, bist du zuerst am Zug.
 
 
 ## Reihenfolge der Monster
 
-Jedes Monster ist gemäß der Initiativreihenfolge am Zug. Alle Monster des gleichen Typs haben die gleiche Initiative und sind in aufsteigender numerischer Reihenfolge am Zug. (siehe [S. 30](#page_30)).
+Jedes Monster ist gemäß der Initiativreihenfolge am Zug. Alle Monster des gleichen Typs haben die gleiche Initiative und sind in aufsteigender numerischer Reihenfolge am Zug (siehe [S. 30](#page_30)).
 
 ---
 
@@ -423,7 +423,7 @@ Wenn „Ziele“ nicht spezifisch aufgeführt ist, ist der Zielwert 1. Es kann a
 
 #### Gezielte Fertigkeiten
 
-Angriffe ([S. 18](#page_18)), Zustände ([S. 20](#page_20)), Heilungen ([S. 21](#page_21)), erzwungene Bewegungen ([S. 23](#page_23)) und das Kontrollieren von Figuren ([S. 24](#page_24)) sind die einzigen gezielten Fertigkeiten. Diese können nicht ausgeführt werden, wenn kein gütliges Ziel in Reichweite ist.
+Angriffe ([S. 18](#page_18)), Zustände ([S. 20](#page_20)), Heilungen ([S. 21](#page_21)), erzwungene Bewegungen ([S. 23](#page_23)) und das Kontrollieren von Figuren ([S. 24](#page_24)) sind die einzigen gezielten Fertigkeiten. Diese können nicht ausgeführt werden, wenn kein gültiges Ziel in Reichweite ist.
 
 #### Verbündete, Gegner und man selbst
 
@@ -461,7 +461,7 @@ Fertigkeiten mit einem Wirkungsbereich lassen die handelnde Figur mehrere Felder
   <p>Rote Felder markieren die Felder, auf denen Figuren anvisiert werden können. Es reicht, wenn sich nur ein rotes Feld in der Reichweite der Fertigkeit befindet. Dieses Feld muss nicht zwingend eine Figur enthalten. </p>
 </div>
 
-Wenn eine Fertigkeit mit einem Wirkunsbereich „**+1** <img src="assets/icons/ability_target.png" class="inline-icon"/>“ erhält, kann eine weitere Figur außerhalb des Wirkungsbereiches, aber innerhalb der Reichweite der Fertigkeit anvisiert werden. Dies bedeutet nicht, dass der gesamte Wirkungsbereich erneut angewendet wird. Es darf lediglich ein zusätzliches Feld anvisiert werden.
+Wenn eine Fertigkeit mit einem Wirkungsbereich „**+1** <img src="assets/icons/ability_target.png" class="inline-icon"/>“ erhält, kann eine weitere Figur außerhalb des Wirkungsbereiches, aber innerhalb der Reichweite der Fertigkeit anvisiert werden. Dies bedeutet nicht, dass der gesamte Wirkungsbereich erneut angewendet wird. Es darf lediglich ein zusätzliches Feld anvisiert werden.
 
 ---
 
@@ -472,7 +472,7 @@ Wenn eine Fertigkeit mit einem Wirkunsbereich „**+1** <img src="assets/icons/a
 #### Besondere Effekte
 
 Besondere Effekte sind an eine Fertigkeit angehängt und verändern sie auf irgendeine Weise. Häufige besondere Effekte, wie „<img src="assets/icons/condition_push.png" class="inline-condition"/> **X**“, „<img src="assets/icons/condition_pull.png" class="inline-condition"/> **X**“ oder Zustände stehen normalerweise in dem hervorgehobenen Abschnitt rechts von der Fertigkeit. Alle bedingten Effekte – also solche, die vom Verbrauch eines Elementes (siehe [S. 16](#page_16)) oder der Zahlung anderer Kosten abhängen – sind unter der Fertigkeit in einem hervorgehoben Abschnitt mit gepunkteter Umrandung angegeben.
-Du darfst besondere Effekte überspringen, musst aber vor dem Würfeln des Angriffsmodifikators entscheiden, ob du dies tun willst. Bedingte Effekte darfst du ebenfalls überspringen. Du bist nicht verpflichtet, die Kosten zu bezahlen. Und selbst wenn du die Kosten bezahlt hast, kannst du dich noch dafür entscheiden, den Effekt nicht anzuwenden. Im Falle eines überspringbaren Effekts, der an eine Angriffsfertigkeit mit mehreren Zielen angehängt ist, kannst du dich bei jedem einzelnen Ziel entscheiden, ob du den Effekt anwendest oder nicht. Auch hier muss das immer vor dem Würfeln des Angriffsmodifikators geschehen, sofern es nicht anders angeben ist.
+Du darfst besondere Effekte überspringen, musst aber vor dem Würfeln des Angriffsmodifikators entscheiden, ob du dies tun willst. Bedingte Effekte darfst du ebenfalls überspringen. Du bist nicht verpflichtet, die Kosten zu bezahlen. Und selbst wenn du die Kosten bezahlt hast, kannst du dich noch dafür entscheiden, den Effekt nicht anzuwenden. Im Falle eines überspringbaren Effekts, der an eine Angriffsfertigkeit mit mehreren Zielen angehängt ist, kannst du dich bei jedem einzelnen Ziel entscheiden, ob du den Effekt anwendest oder nicht. Auch hier muss das immer vor dem Würfeln des Angriffsmodifikators geschehen, sofern es nicht anders angegeben ist.
 
 Komplexere besondere Effekte können unter einer Fertigkeit erläutert werden, aber nicht jeder Text unter einer Fertigkeit ist ein besonderer Effekt. Jeder Text, der Regeln für die Ausführung einer Fertigkeit (z.B. eine Zielbeschränkung) enthält, ist ein fester Bestandteil dieser Fertigkeit und du kannst ihn nicht überspringen.
 
@@ -484,7 +484,7 @@ Komplexere besondere Effekte können unter einer Fertigkeit erläutert werden, a
 
 > #### Elemente 
 > 
-> Einige Aktionen sind mit einem Element verbunden (Feuer, Eis, Luft, Erde, Licht oder Dunkel). Elementanreicherungen auf deinen gespielten Fertigkeitskarten, deinen Handkarten und im aktiven Bereich sowie Elementanreicherungen auf den gewürfelten Monsteraktionen können jeweils einmal pro Runde verbraucht werden. Es können mehrere Anreicherungen desselben Elementes verfügbar sein und in derselben Runde verbaucht werden.
+> Einige Aktionen sind mit einem Element verbunden (Feuer, Eis, Luft, Erde, Licht oder Dunkel). Elementanreicherungen auf deinen gespielten Fertigkeitskarten, deinen Handkarten und im aktiven Bereich sowie Elementanreicherungen auf den gewürfelten Monsteraktionen können jeweils einmal pro Runde verbraucht werden. Es können mehrere Anreicherungen desselben Elementes verfügbar sein und in derselben Runde verbraucht werden.
 > 
 > | <img src="assets/icons/element_fire.png"/> | <img src="assets/icons/element_ice.png"/> | <img src="assets/icons/element_wind.png"/> | <img src="assets/icons/element_earth.png"/> | <img src="assets/icons/element_light.png"/> | <img src="assets/icons/element_dark.png"/> |
 > | Feuer | Eis | Luft | Erde | Licht | Dunkel |
@@ -493,12 +493,12 @@ Komplexere besondere Effekte können unter einer Fertigkeit erläutert werden, a
 > 
 > Elementanreicherungen können verbraucht werden, um bestimmten Fertigkeiten Effekte hinzuzufügen, oder in manchen Fällen ganz neue Fertigkeiten auszuführen. Dies wird durch ein mit <img src="assets/icons/element_spent.png" class="inline-icon"/> markiertes Elementsymbol dargestellt, gefolgt von einem hinzugefügten Effekt. Wenn dieses Element verfügbar ist, kann es verbraucht werden. Immer wenn eine Elementanreicherung verbraucht wird, kann sie erst in der nächsten Runde erneut verbraucht werden. (Du kannst dir dies mit einem Ersatzwürfel oder einem anderen kleinen Gegenstand markieren, um es nicht zu vergessen.)
 > 
-> Wenn eine Fertigkeit mehrere seperate Elementanreicherungen zeigt, wählt die handelnde Figur aus, welche aktiviert werden soll. Wenn eine einzelne Elementanreicherung mehrere Elemente zeigt, müssen all diese Elemente verbraucht werden, um sie zu aktivieren. Jedes Element kann gleichzeitig mehrfach angereichert werden, aber jede Elementanreicherung kann maximal einmal pro Runde verbraucht werden.
+> Wenn eine Fertigkeit mehrere separate Elementanreicherungen zeigt, wählt die handelnde Figur aus, welche aktiviert werden soll. Wenn eine einzelne Elementanreicherung mehrere Elemente zeigt, müssen all diese Elemente verbraucht werden, um sie zu aktivieren. Jedes Element kann gleichzeitig mehrfach angereichert werden, aber jede Elementanreicherung kann maximal einmal pro Runde verbraucht werden.
 > 
 > <img src="assets/icons/element_wild.png" class="inline-element"/> Dieses bunte Farbrad stellt 1 beliebiges der sechs Elemente dar (nicht alle gleichzeitig). Ein zusätzlicher Effekt, der dieses Symbol zeigt, kann durch den Verbrauch eines beliebigen einzelnen Elements bezahlt werden. Ist das Symbol als Anreicherung zu sehen, kann es als 1 beliebiges der sechs Elemente verbraucht werden.
 > 
 > <img src="assets/icons/element_fire_ice.png" class="inline-element"/> Ein gemischtes Elementsymbol, das zwei
-Elemente in einer Umrandung zeigt, stellt 1 dieser beiden Elemente dar (nicht beide gleichzeitig). Ein zusätzlicher Effekt, dieses Symbol zeigt, kann durch den Verbrauch eines einzelnen der beiden abgebildeten Elemente bezahlt werden. Ist das Symbol als Anreicherung zu sehen, kann es als 1 der beiden Elemente vebraucht werden.
+Elemente in einer Umrandung zeigt, stellt 1 dieser beiden Elemente dar (nicht beide gleichzeitig). Ein zusätzlicher Effekt, dieses Symbol zeigt, kann durch den Verbrauch eines einzelnen der beiden abgebildeten Elemente bezahlt werden. Ist das Symbol als Anreicherung zu sehen, kann es als 1 der beiden Elemente verbraucht werden.
 
 ---
 
@@ -544,7 +544,7 @@ Ein **Angriff** ist ein einzelner Angriff, der gegen 1 Ziel ausgeführt wird. Ei
 Wenn ein Angriff ausgeführt wird, kann der auf der Karte angegebene Grundangriffswert auf drei verschiedene Arten verändert werden, die in der folgenden Reihenfolge erfolgen:
 
 1. Alle anwendbaren Angriffsboni und -strafen – wie z. B.  „**±X** <img src="assets/icons/ability_attack.png" class="inline-icon"/>“-Effekte, einschließlich Gift    (siehe [S. 20](#page_20)) – werden angewendet.
-1. Ein Angriffsmodifikator wird gewürflet und angewendet.
+1. Ein Angriffsmodifikator wird gewürfelt und angewendet.
 1. Der Schildbonus des Ziels wird angewendet (siehe [S. 22](#page_22)).
 
 Sobald alle Modifikationen angewendet wurden, erleidet das Ziel den resultierenden Schaden. Wenn das Ziel über Fertigkeiten oder Effekte verfügt, die eine Schadensquelle negieren können, einschließlich des Abwerfens oder Verlierens von Karten, um Schaden zu negieren (siehe [S. 28](#page_28)), kann es diese jetzt benutzen.
@@ -553,7 +553,7 @@ Diese Schritte werden für jedes einzelne Ziel der Angriffsfertigkeit wiederholt
 
 > #### Angriffsmodifikator-Ablage
 > 
-> Immer wenn eine Angriffsfertigkeit ausgeführt wird, **würfelst du für jedes Ziel der Angriffsfertigkeit einen separaten Angriffsmodifikator**, indem du den Würfel wirfst und mit der Angriffsmodifikator-Ablage abgleichst. Der gewürfelte Modifikator ergibt sich aus dem Modifikator in der aktuell markierten Zeile und der Spalte, die dem gewürfelten Symbol entspricht (<img src="assets/icons/dice_result_minus.png" class="inline-icon"/>, <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/>, <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>). Der gewürfelte Modifikator wird dann auf den Angriff angewendet, was möglicherweise den Angriffswert verringert oder erhöht. Sobald du die Effekte eines gewürfelten Modifikators angewendet hast, schiebe den Modifikator-Stein 1 Reihe nach unten. (Wenn du Schwierigkeiten hast, dich daran zu erinneren, den Stein nach einem Angriff nach unten zu bewegen, kannst du versuchen, den Stein zuerst zu bewegen und dann den Modifikator aus der Reihe zu verwenden, in der sich der Stein nun befindet. Wenn du das so machst, startet der Stein am Anfang jedes Szenarios im letzten Feld und nicht im Ersten.)
+> Immer wenn eine Angriffsfertigkeit ausgeführt wird, **würfelst du für jedes Ziel der Angriffsfertigkeit einen separaten Angriffsmodifikator**, indem du den Würfel wirfst und mit der Angriffsmodifikator-Ablage abgleichst. Der gewürfelte Modifikator ergibt sich aus dem Modifikator in der aktuell markierten Zeile und der Spalte, die dem gewürfelten Symbol entspricht (<img src="assets/icons/dice_result_minus.png" class="inline-icon"/>, <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/>, <img src="assets/icons/dice_result_plus.png" class="inline-icon"/>). Der gewürfelte Modifikator wird dann auf den Angriff angewendet, was möglicherweise den Angriffswert verringert oder erhöht. Sobald du die Effekte eines gewürfelten Modifikators angewendet hast, schiebe den Modifikator-Stein 1 Reihe nach unten. (Wenn du Schwierigkeiten hast, dich daran zu erinnern, den Stein nach einem Angriff nach unten zu bewegen, kannst du versuchen, den Stein zuerst zu bewegen und dann den Modifikator aus der Reihe zu verwenden, in der sich der Stein nun befindet. Wenn du das so machst, startet der Stein am Anfang jedes Szenarios im letzten Feld und nicht im Ersten.)
 > 
 > Angriffsmodifikatoren würfelst du nur für Angriffe. Verwende sie nicht für andere Effekte, die Schaden verursachen.
 > 
@@ -578,7 +578,7 @@ Diese Schritte werden für jedes einzelne Ziel der Angriffsfertigkeit wiederholt
 
 #### Angriffseffekte
 
-Ein Angriffseffekt ist ein Effekt, der mit einem Angriff verbunden ist. Diese Effekte werden entweder während der Schadensabwicklung oder nach dem Angriff angewendet. Wenn der Angriffseffekt nach dem Angriff angewendet wird, wird er auch dann angewendet, fals der Angriff keinen Schaden verursacht (auch bei einem <img src="assets/icons/modifier_miss.png" class="inline-element"/>-Modifikator).
+Ein Angriffseffekt ist ein Effekt, der mit einem Angriff verbunden ist. Diese Effekte werden entweder während der Schadensabwicklung oder nach dem Angriff angewendet. Wenn der Angriffseffekt nach dem Angriff angewendet wird, wird er auch dann angewendet, falls der Angriff keinen Schaden verursacht (auch bei einem <img src="assets/icons/modifier_miss.png" class="inline-element"/>-Modifikator).
 
 Der Angreifer muss entscheiden, ob er Angriffseffekte anwenden möchte, bevor er einen Angriffsmodifikator würfelt. Alle Angriffseffekte außer <img src="assets/icons/ability_target.png" class="inline-icon"/> werden vor jedem Vergeltungsbonus angewendet (siehe [S. 22](#page_22)). Der <img src="assets/icons/ability_target.png" class="inline-icon"/>-Effekt ermöglicht es dem Angreifer, zusätzliche Angriffe auszuführen, und jeder Angriff muss vollständig abgehandelt werden, bevor ein anderer ausgeführt werden kann.
 
@@ -611,7 +611,7 @@ Jeder Fernangriff auf einen benachbarten Gegner erhält automatisch Nachteil.
 Eine Zustandsfertigkeit ist eine positive oder negative Zielfertigkeit, abhängig von dem angegeben Zustand, und bewirkt, dass das Ziel der Fertigkeit diesen Zustand erhält.
 
 
-Wenn du einen Zustand erhälst, lege den entsprechenden Marker auf deine Charakterkarte. Wenn ein Monster einen Zustand erhält, lege den entsprechenden Marker in die Nähe der entsprechenden Trefferpunkte-Zählscheibe. 
+Wenn du einen Zustand erhältst, lege den entsprechenden Marker auf deine Charakterkarte. Wenn ein Monster einen Zustand erhält, lege den entsprechenden Marker in die Nähe der entsprechenden Trefferpunkte-Zählscheibe. 
 
 Einmal erlangt, bleibt ein Zustand bestehen, bis die Voraussetzungen für das Entfernen des Zustands erfüllt sind. Weder positive noch negative Zustände können freiwillig entfernt werden. Eine Figur kann nicht mehrfach denselben Zustand haben. Wenn eine Figur jedoch einen Zustand erhält, den sie bereits hat, wird die Dauer des Effekts zurückgesetzt.
 
@@ -645,9 +645,9 @@ Ein Zustandseffekt kann auch als zusätzlicher Effekt zu anderen Fähigkeiten hi
 
 ### Heilen
 
-<img src="assets/icons/ability_heal.png" class="inline-icon"/> **„Heilung X“** ist eine positive Zielfähigkeit, die es dem Ziel ermöglicht, X Schaden zu heilen und so seinen aktuellen Trefferpunktewert zu erhöhen. Wenn Schaden geheilt wird, aktualisiere Trefferpunke-Zählscheibe des Ziels, um den neuen Trefferpunktewert anzuzeigen.
+<img src="assets/icons/ability_heal.png" class="inline-icon"/> **„Heilung X“** ist eine positive Zielfähigkeit, die es dem Ziel ermöglicht, X Schaden zu heilen und so seinen aktuellen Trefferpunktewert zu erhöhen. Wenn Schaden geheilt wird, aktualisiere Trefferpunkte-Zählscheibe des Ziels, um den neuen Trefferpunktewert anzuzeigen.
 
-Der aktuelle Trefferpunktewert einer Figur kann niemals ihren maximalen Trefferpunktewert überschreiten. Es ist jedoch erlaubt, eine Figur, die bereits ihren maximalen Trefferpunktewert erreicht hat, mit einer Heilfertigkeiten anzuvisieren. Dies kann z. B. durchgeführt werden, um Gift oder Wunde zu entfernen.
+Der aktuelle Trefferpunktewert einer Figur kann niemals ihren maximalen Trefferpunktewert überschreiten. Es ist jedoch erlaubt, eine Figur, die bereits ihren maximalen Trefferpunktewert erreicht hat, mit einer Heilfertigkeit anzuvisieren. Dies kann z. B. durchgeführt werden, um Gift oder Wunde zu entfernen.
 
 Heileffekte von Angriffsmodifikatoren funktionieren genau wie Heilfertigkeiten.
 
@@ -779,7 +779,7 @@ Eine Fertigkeitskarte besteht aus folgenden Teilen:
 
 ### Gegenstände
 
-<span class="new-to-bnb">Jede Szenariokarte zeigt 2 Gegenständseinträge, die über und unter dem Szenarioeintrag stehen.</span> Gegenstände bieten eine Vielzahl von Boni und zusätzlichen Fertigkeiten, die du zusätzlich zu deinen beiden Aktionen pro Runde verwenden kannst.
+<span class="new-to-bnb">Jede Szenariokarte zeigt 2 Gegenstandseinträge, die über und unter dem Szenarioeintrag stehen.</span> Gegenstände bieten eine Vielzahl von Boni und zusätzlichen Fertigkeiten, die du zusätzlich zu deinen beiden Aktionen pro Runde verwenden kannst.
 
 ![component breakdown of item entry on scenario card](/assets/diagrams/component_diagram_items_de.png)
 
@@ -787,7 +787,7 @@ Eine Gegenstandskarte besteht aus folgenden Teilen:
 
 <ol type="A">
   <li><strong>Gegenstandsname:</strong> Der Name des Gegenstands.</li>
-  <li><strong>Gegenstandseffekt:</strong> Wann der Gegenstand verwendet werden kann und welchen Bonus oder welche Fertigkeit du erhälst.</li>
+  <li><strong>Gegenstandseffekt:</strong> Wann der Gegenstand verwendet werden kann und welchen Bonus oder welche Fertigkeit du erhältst.</li>
   <li><strong>Gegenstandsverwendung:</strong> Was mit dem Gegenstand passiert, nachdem du ihn verwendet hast (siehe unten). Manche Gegenstände nutzen sich ab, andere gehen verloren. Einige Gegenstände kannst du sogar mehrfach verwenden.</li>
   <li><strong>Gegenstandstyp:</strong> Jeder Gegenstand zählt als einer von drei Typen: <img src="assets/icons/equip_single_hand.png" class="inline-icon"/>, <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/>, oder <img src="assets/icons/equip_item.png" class="inline-icon"/>. Diese Typen bestimmen, welche Gegenstände du in ein Szenario mitnehmen kannst.</li>
 </ol>
@@ -915,11 +915,11 @@ Eine Monsterkarte kann aus folgenden Teilen bestehen:
 
 ### Zugreihenfolge der Monster
 
-Alle Monster jedes Typs handeln basierend auf dem Initiativewert, den du in der aktuellen Runde für ihren Typ gewürfelt hast. <span class="new-to-bnb">Sind sie in Inititativreihenfolge am Zug, handeln alle Monster eines Typs in aufsteigender numerischer Reihenfolge.</span> Jedes Monster handelt seinen Zug vollständig ab, bevor das nächste Monster handelt.
+Alle Monster jedes Typs handeln basierend auf dem Initiativewert, den du in der aktuellen Runde für ihren Typ gewürfelt hast. <span class="new-to-bnb">Sind sie in Initiativreihenfolge am Zug, handeln alle Monster eines Typs in aufsteigender numerischer Reihenfolge.</span> Jedes Monster handelt seinen Zug vollständig ab, bevor das nächste Monster handelt.
 
 ### Fokus
 
-> Da es sich bei Knöfpe & Krabbler um ein Solospiel handelt, bist du der einzige Fokus der Monster. Sie greifen dich mit allen Angriffen und negativen Zielfähigkeiten an.
+> Da es sich bei Knöpfe & Krabbler um ein Solospiel handelt, bist du der einzige Fokus der Monster. Sie greifen dich mit allen Angriffen und negativen Zielfähigkeiten an.
 
 Das Monster identifiziert das nächstgelegene Feld, von dem aus es seine Angriffsfertigkeit ausführen kann. Dieses Feld ist das „Angriffsfeld“. Wenn das Monster in seinem Zug nicht angreifen kann, weil es keine Angriffsfertigkeit besitzt oder entwaffnet ist, bewegt es sich, als würde es einen Nahkampfangriff gegen ein einzelnes Ziel ausführen. Das Monster folgt dem kürzesten Weg zu seinem Angriffsfeld. Wenn es das Angriffsfeld in dieser Runde nicht erreichen kann, wählt es den kürzesten Weg, der es so nah wie möglich an das Angriffsfeld bringt. Wenn es in diesem Zug nicht näher an das Angriffsfeld herankommen kann, bewegt es sich nicht.
 
@@ -1008,7 +1008,7 @@ Nachdem alle Figuren auf der Karte am Zug waren, beginnt der Schritt „Rundenen
 1. Für Fertigkeitskarten im aktiven Bereich mit Rundenboni:
   - Karten auf der A-Seite: Drehe sie auf die B-Seite und nimm sie wieder auf die Hand
   - Karten auf der B-Seite: Lege sie auf deinen Ablagestapel 
-  - Wenn die Karte ein Verloren-Symbol hat, lege sie auf deinen Verloren-Symbol
+  - Wenn die Karte ein Verloren-Symbol hat, lege sie auf deinen Verloren-Stapel
 1. Wenn du mindestens 2 Karten auf der Hand und/oder im Ablagestapel hast, darfst du eine kurze Pause einlegen (siehe [S. 27](#page_27)).
 
 ### Runden zählen
@@ -1027,7 +1027,7 @@ Wenn ein Szenario endet, ist es entweder verloren oder abgeschlossen, je nachdem
 
 Sobald das Ende des Szenarios ausgelöst wird, setzt du das Spiel fort, bis die aktuelle Runde beendet ist, und dann endet das Szenario. Wenn du das Szenario in derselben Runde sowohl verlieren als auch abschließen würdest, gilt das Szenario als verloren.
 
-Du erhälst alle abgelegten und verlorenen Fertigkeitskarten sowie alle abgenutzten und verlorenen Gegenstände zurück und setzt deine Trefferpunkt-Zählscheibe auf den maximalen Trefferpunktewert zurück. Alle Zustände werden entfernt.
+Du erhältst alle abgelegten und verlorenen Fertigkeitskarten sowie alle abgenutzten und verlorenen Gegenstände zurück und setzt deine Trefferpunkt-Zählscheibe auf den maximalen Trefferpunktewert zurück. Alle Zustände werden entfernt.
 
 ## Verlorenes Szenario
 
@@ -1211,11 +1211,11 @@ Jedes Monster führt alle seine Fertigkeiten von oben nach unten aus (Bewegung, 
 | Geschrumpfte abgewetzte Stiefel  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 1	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Füge bei deiner Bewegung +1 <img src="assets/icons/ability_move.png" class="inline-icon"/> hinzu.	 |
 | Trinkwasser-Tropfen       | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 2	|                                                                 |	 <img src="assets/icons/element_spend_ice_wind.png" class="inline-element"/> während deines Zugs, um einen negativen Zustand zu entfernen. |
 | Krafttrank-Tropfen    | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 2	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	Füge während deines Zugs allen deinen Angriffen +1 <img src="assets/icons/ability_attack.png" class="inline-icon"/> hinzu.	 |
-| Essensreste vom Tisch	    | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 5	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Wärend deines Zugs: <img src="assets/icons/ability_heal.png" class="inline-icon"/> 1 Selbst.	 |
+| Essensreste vom Tisch	    | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 5	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Während deines Zugs: <img src="assets/icons/ability_heal.png" class="inline-icon"/> 1 Selbst.	 |
 | Magnetnadel          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 5	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	Kontrolliere während deines Zugs einen Gegner in <img src="assets/icons/ability_range.png" class="inline-icon"/> 5: <img src="assets/icons/ability_move.png" class="inline-icon"/> 2.	 |
 | Nachtschatten-Pollen        | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 6	|                                                                 |	<img src="assets/icons/element_spend_earth_dark.png" class="inline-element"/> nach dem Angriff eines Gegners, um ihn <img src="assets/icons/condition_poison.png" class="inline-condition"/> zu geben.	 |
 | Federkielpfeile  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 6	|                                                                 | <img src="assets/icons/element_spend_fire_wind.png" class="inline-element"/> bei deinem Einzelziel-Fernkampfangriff, um +1 <img src="assets/icons/ability_range.png" class="inline-icon"/>, <img src="assets/icons/condition_pierce.png" class="inline-condition"/> 1 hinzuzufügen.	 |
-| Instabiles Pulver          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 7	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	Füge beio deinem Einzelziel-Fernkampfangriff Folgendes hinzu: <img src="assets/icons/area_ranged_triangle.png" class="inline-condition"/>	 |
+| Instabiles Pulver          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 7	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	Füge bei deinem Einzelziel-Fernkampfangriff Folgendes hinzu: <img src="assets/icons/area_ranged_triangle.png" class="inline-condition"/>	 |
 | Heiltrank-Tropfen  | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 7	| <img src="assets/icons/use_lost.png" class="inline-icon"/>     |	Während deines Zuges: <img src="assets/icons/ability_heal.png" class="inline-icon"/> 3 Selbst.	 |
 | Schmieröl          | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 9	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Füge bei deiner Bewegung +2 <img src="assets/icons/ability_move.png" class="inline-icon"/> hinzu.	 |
 | Messing-Zahnrad                | <img src="assets/icons/equip_item.png" class="inline-icon"/> |	 9	| <img src="assets/icons/use_tap_card.png" class="inline-icon"/> |	Erhöhe/reduziere nach dem Bestimmen der Initiative deinen Wert um 10.	 |
